@@ -2,7 +2,6 @@ public class RollLoadedDie {
     public static void main(String[] args) {
         double r = Math.random();
         int roll;
-
         if (r < 1.0/8.0) {
             roll = 1;
         }
@@ -24,5 +23,6 @@ public class RollLoadedDie {
         System.out.println(roll);
     }
 }
+
 
 
