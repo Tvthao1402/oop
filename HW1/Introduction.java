@@ -1,5 +1,5 @@
 public class Introduction {
-    public static void main(String[] argv){
+    public static void main(String[] argv) {
         System.out.print("Trần Văn Thạo" + "\t" + "24020312" + "\t" + "K69I-IT6");
         System.out.println("\t" + "Tvthao1402" + "\t" + "tvthao060214@gmail.com");
         for (int i = 9; i >= 1; i--) {
@@ -9,3 +9,4 @@ public class Introduction {
         System.out.println("No more bottles of beer on the wall.");
     }
 }
+
